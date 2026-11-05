@@ -1,16 +1,51 @@
-# React + Vite
+# Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal developer portfolio showcasing my projects, technical skills, education, and certifications. Built to highlight my work in frontend development, full-stack web development, and AI/ML.
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I'm a software developer interested in building responsive web applications and exploring practical applications of artificial intelligence and machine learning.
 
-## React Compiler
+This portfolio brings together my development projects, technical experience, and learning journey.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
 
-## Expanding the ESLint configuration
+- **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3
+- **Styling:** Tailwind CSS
+- **Backend:** Python, Flask, Django
+- **APIs:** REST API Integration
+- **AI/ML:** Machine Learning, Deep Learning, Computer Vision, NLP
+- **Tools:** Git, GitHub, VS Code
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- Responsive design for desktop and mobile devices
+- Animated hero section and interactive UI
+- Project showcase with descriptions and technologies
+- Technical skills presentation
+- Certifications with PDF previews
+- Education and professional information
+- Contact form integrated with W3Forms
+- Social links 
+
+## Projects
+
+Some of the projects featured in this portfolio include:
+
+- **Chest X-ray Report Generation** – AI-based medical report generation using vision-language models.
+- **MediVision** – Disease prediction using machine learning and symptom analysis.
+- **E-Commerce Website** – React-based shopping application with REST API integration.
+- **Responsive Villa Website** – A responsive property website built using HTML, CSS, and JavaScript.
+- **Chatbot** – A simple conversational application.
+
+
+## Contact
+
+- **GitHub:** https://github.com/manikanta-karri-dev
+- **LinkedIn:** https://www.linkedin.com/in/manikanta-karri-
+- **Email:** manikantakarri634@gmail.com
+
+---
+
+Built with React and a passion for creating useful digital experiences.
+
